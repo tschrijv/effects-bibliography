@@ -68,6 +68,10 @@ computational effects.
 * **Handling fibred algebraic effects** (POPL 2018)  
   by Danel Ahman  
   ([pdf](https://danelahman.github.io/papers/popl18.pdf))
+  
+* **Handlers for Non-Monadic Computations** (IFL 2017)
+  by Ruben Pieters, Tom Schrijvers, and Exequiel Rivas
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ifl2017_post.pdf))
 
 ### 2017
 
@@ -203,7 +207,9 @@ computational effects.
   ([dblp](http://dblp.uni-trier.de/rec/html/journals/corr/BauerP13))
   ([doi](http://dx.doi.org/10.2168/LMCS-10%284:9%292014))
 
-
+* **Heuristics Entwined with Handlers Combined** (PPDP 2014)
+  by Tom Schrijvers, Nicolas wu, Benoit Desouter, and Bart Demoen
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/ppdp2014.pdf))
 
 ### 2013
 
