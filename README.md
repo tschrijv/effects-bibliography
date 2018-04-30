@@ -61,6 +61,10 @@ in various programming languages.
 
 ### 2018
 
+* **Syntax and Semantics for Operations with Scopes** (LICS 2018)
+  by Maciej Piróg, Tom Schrijvers, Nicolas Wu, and Mauro Jaskelioff
+  ([pdf](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/lics2018.pdf))
+
 * **Explicit Effect Subtyping** (ESOP 2018)  
   by Amr Hany Saleh, Georgios Karachalias, Matija Pretnar, and Tom Schrijvers  
   ([pdf](https://lirias.kuleuven.be/bitstream/123456789/618119/1/esop18-final71.pdf)) ([pdf with appendix](https://people.cs.kuleuven.be/~tom.schrijvers/Research/papers/esop2018.pdf)) ([technical report/extended version](https://lirias.kuleuven.be/bitstream/123456789/616205/1/CW711.pdf))
